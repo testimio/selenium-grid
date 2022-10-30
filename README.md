@@ -1,6 +1,6 @@
 # Selenium-Grid Helm Chart
 
-This chart enables the creation of a Selenium Grid Server in Kubernetes With Testim extention in chrome.
+This chart enables the creation of a Selenium Grid Server in Kubernetes With Testim extension in chrome.
 
 ## Installing the chart
 
